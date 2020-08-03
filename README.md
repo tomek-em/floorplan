@@ -3,4 +3,4 @@
 
 This repository contains two application js filse.
 
-You need to import ThreeJS library (GLTFLoader.js, OrbitControl.js, three.min.js files), create html index file with canvas container div and 3d model saved as .glb or .gltf to use it.
+If you want to use it you need to import ThreeJS library (GLTFLoader.js, OrbitControl.js, three.min.js files), create html index file with canvas container div and 3d model saved as .glb or .gltf.
