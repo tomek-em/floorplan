@@ -1,6 +1,6 @@
 # Floorplan
 3d floorplan made with ThreeJS library. 
 
-This repository contains two app filse and 3d floorplan model I made in Blander.
+This repository contains two application js filse.
 
-To use this files you need GLTFLoader.js, OrbitControl.js, three.min.js files from ThreeJS library and html index file with canvas container div.  
+You need to import ThreeJS library (GLTFLoader.js, OrbitControl.js, three.min.js files), create html index file with canvas container div and 3d model saved as .glb or .gltf to use it.
